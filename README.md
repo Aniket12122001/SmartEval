@@ -83,23 +83,25 @@ Manual assessment of subjective answers requires significant time and effort fro
 6. Cosine Similarity compares student and reference answers.
 7. The system generates the final score automatically.
 
-## Proposed Architecture
+### Proposed Architecture
 
+```text
 Student Answer
-      ->
+      ↓
 Text Preprocessing
-      ->
+      ↓
 BERT Embedding Layer
-      ->
+      ↓
 BiLSTM Layer
-      ->
+      ↓
 Pooling Layer
-      ->
+      ↓
 Cosine Similarity
-      ->
+      ↓
 Score Prediction
-      ->
+      ↓
 Result Generation
+```
 
 ### Note
 
