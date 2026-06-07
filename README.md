@@ -86,19 +86,19 @@ Manual assessment of subjective answers requires significant time and effort fro
 ## Proposed Architecture
 
 Student Answer
-      ↓
+      ->
 Text Preprocessing
-      ↓
+      ->
 BERT Embedding Layer
-      ↓
+      ->
 BiLSTM Layer
-      ↓
+      ->
 Pooling Layer
-      ↓
+      ->
 Cosine Similarity
-      ↓
+      ->
 Score Prediction
-      ↓
+      ->
 Result Generation
 
 ### Note
@@ -107,10 +107,7 @@ This project is a research prototype developed for academic purposes. Evaluation
 
 ## Project Team
 ### Developer
-Aniket Saha  
-Diya Majumder
-Julphikar Haque
-Baishali Saha
+Aniket Saha , Diya Majumder, Julphikar Haque, Baishali Saha.
 B.Tech in Computer Science and Engineering  
 Siliguri Institute of Technology
 
