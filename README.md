@@ -106,12 +106,19 @@ Result Generation
 This project is a research prototype developed for academic purposes. Evaluation accuracy depends on the quality of training data and model parameters and is subject to further improvement.
 
 ## Project Team
-### Developer
-Aniket Saha , Diya Majumder, Julphikar Haque, Baishali Saha.
-B.Tech in Computer Science and Engineering  
-Siliguri Institute of Technology
+
+### Team Members
+
+- Aniket Saha
+- Diya Majumder
+- Julphikar Haque
+- Baishali Saha
+
+**B.Tech in Computer Science and Engineering**  
+**Siliguri Institute of Technology**
 
 ### Project Mentor
-Ms. Sampa Das 
+
+**Ms. Sampa Das**  
 Department of Computer Science and Engineering  
 Siliguri Institute of Technology
